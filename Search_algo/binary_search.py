@@ -10,3 +10,5 @@ def binary(arr,num):
         elif num > arr[mid]:
             start = mid+1 # id=f src elm is > mid then update str .
     return "Not found"
+
+# Time Complexcity :- O(logn)
