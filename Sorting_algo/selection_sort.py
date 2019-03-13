@@ -6,4 +6,4 @@ def selection(arr):
                 arr[j],arr[i] = arr[i],arr[j]
     return arr
 
-#Time complexcityb is: O(n)
+#Time complexcityb is: O(n^2)
