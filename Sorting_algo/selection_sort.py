@@ -11,19 +11,7 @@ def selection(arr):
         
     return arr
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#Time complexcity for best and worst case is: O(n^2)
 
 '''def selection(arr):
     limit = len(arr)
@@ -33,4 +21,4 @@ def selection(arr):
                 arr[j],arr[i] = arr[i],arr[j]
     return arr'''
 
-#Time complexcityb is: O(n^2)
+
